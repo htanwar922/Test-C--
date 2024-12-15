@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"*.init": "makefile",
+		"stdexcept": "cpp"
+	}
+}
